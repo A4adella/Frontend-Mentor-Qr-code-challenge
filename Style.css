@@ -1,0 +1,42 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 15px;
+    background-color: hsl(228, 34%, 89%);
+}
+.Flex-container {
+  display: flex;
+  width: 320px;
+  height: 450px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: white;
+  margin: 50px 100px 50px 100px;
+
+ #QR{
+    width: 289px;
+    height: 289px;
+    border-radius: 20px;
+    padding: 5px;
+ }
+}
+
+.text {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
